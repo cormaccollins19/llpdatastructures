@@ -1,0 +1,8 @@
+import plotly.plotly as py
+from plotly.grid_objs import Grid, Column
+
+import time
+import numpy as np
+from scipy.stats import multivariate_normal as Nd
+
+colorscale = []
